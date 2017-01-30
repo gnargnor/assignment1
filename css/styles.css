@@ -1,0 +1,31 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+#main {
+  margin: 20px auto;
+  max-width: 500px;
+  height: 500px;
+  background-color: slategray;
+  background: url("mom-and-baby.jpg") no-repeat fixed center center;
+  color: black;
+  border: 8px double darkblue;
+  border-radius: 20px;
+
+}
+
+h1 {
+  background-color: rgba(255, 255, 255, 0.65);
+  font-family: 'Codystar', cursive;
+  font-size: 400%;
+  margin: 10px auto 10px auto;
+  border: 2px solid black;
+
+  color: black;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0px auto;
+}
